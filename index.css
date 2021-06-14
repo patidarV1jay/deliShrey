@@ -112,7 +112,7 @@ li {
     margin-left: 3rem;
     justify-content: center;
     align-items: center;
-    background: url('/images/dabi2.jpg');
+    background: url('dabi2.jpg');
     background-repeat:no-repeat;
     background-position-x:30% ;
     background-position-y:10% ;
@@ -129,7 +129,7 @@ li {
 @media only screen and (max-width:800px) {
 
         body{
-            background: url('/images/dabi.jpg');
+            background: url('dabi.jpg');
             background-repeat: no-repeat;
             background-position-x:80% ;
             background-size:cover ;
